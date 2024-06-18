@@ -33,8 +33,3 @@ $ npm run build && serve ./build
 ## Architecture
 
 ![image](https://user-images.githubusercontent.com/41498427/115279105-e6be5680-a163-11eb-9c29-cc7e4738eab0.png)
-
-
-Thanks,
-
-Bisakh
